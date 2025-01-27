@@ -1,0 +1,14 @@
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\bin\Debug\netcoreapp3.1\JavaByteReader.exe
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\bin\Debug\netcoreapp3.1\JavaByteReader.deps.json
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\bin\Debug\netcoreapp3.1\JavaByteReader.runtimeconfig.json
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\bin\Debug\netcoreapp3.1\JavaByteReader.runtimeconfig.dev.json
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\bin\Debug\netcoreapp3.1\JavaByteReader.dll
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\bin\Debug\netcoreapp3.1\JavaByteReader.pdb
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.csproj.AssemblyReference.cache
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.AssemblyInfoInputs.cache
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.AssemblyInfo.cs
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.csproj.CoreCompileInputs.cache
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.dll
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.pdb
+C:\Users\Tex\Documents\Visual Studio 2019\Projects\projectclass\JavaByteReader\obj\Debug\netcoreapp3.1\JavaByteReader.genruntimeconfig.cache
